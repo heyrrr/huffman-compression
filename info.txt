@@ -1,0 +1,1 @@
+From this assignment, I have learned a lot of things on coding. I have made numerous mistakes but I am glad that I corrected them in time. Up to this point, although I am a little bit late, everything seems to be working fine. There’s some ester eggs in the script. I have included some new methods that can be used later on including queues.
